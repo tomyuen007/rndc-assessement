@@ -1,0 +1,138 @@
+﻿{
+  "rowidObject": "385 ",
+  "label": "Corporate MDM ID - 101360",
+  "ExDoNotUse": "N",
+  "ExBarrel": "N",
+  "ExUPC": "999999999999",
+  "ExSCC": "99999999999999",
+  "ExCorpMDMID": "101360",
+  "ExRefOnly": "N",
+  "ExProductSKU_ExUnitOfMeasure_1_rowidObject": "20797 ",
+  "ExProductSKU_rowidObject": "300126 ",
+  "ExRefProduct": {
+    "ExVntgCrp": "0",
+    "ExProof": ".00",
+    "ExItemLife": "0",
+    "ExABV": ".00",
+    "ExDscrptnFull": "Clos Du Bois Merlot Wnmkr",
+    "ExCrpCrtfd": "N",
+    "ExVntgSnstvCrp": "N",
+    "ExDscrptn": "Clos Du Bois Merlot Wnmkr",
+    "ExCrpClass": {
+      "rowidObject": "1 ",
+      "label": "Lookup Product Corporate Class",
+      "ExCorporateClassDesc": "High Wine (>14.5%)",
+      "ExCrpClassID": "High Wine (>14.5%)"
+    },
+    "ExTempProtectionFlg": "N",
+    "ExUnitOfMeasure": {
+      "ExCasesPerPallet": "0",
+      "ExLiters": "6.0000000",
+      "ExCaseWidth": "1.0000",
+      "ExCaseHeight": "1.0000",
+      "ExGallonage": "1.5850320",
+      "ExCaseWeight": ".00",
+      "ExCaseLength": "1.0000",
+      "ExCasesPerLayer": "0",
+      "ExTrueBtlsPerCase": "1",
+      "ExCaseEqvlnt": "1.000",
+      "ExBttlCase": "1",
+      "ExMultiPack": "0"
+    },
+    "ExProductContainer": {
+      "link": [],
+      "firstRecord": 1,
+      "pageSize": 100,
+      "searchToken": "multi",
+      "item": [
+        {
+          "rowidObject": "295733 ",
+          "label": "SKU to Container Relationship",
+          "ExPalletType": "Standard (43.1In - 65In)",
+          "ExCntnrType": {
+            "rowidObject": "12 ",
+            "label": "Lookup Product Container Type",
+            "ExCntnrTypeDesc": "Other",
+            "ExCntnrTypeID": "Other"
+          },
+          "ExClosureTyp": {
+            "rowidObject": "3 ",
+            "label": "Lookup Product Closure Type",
+            "ExClsrTypeDesc": "Cork",
+            "ExClsrTypId": "Cork"
+          },
+          "ExSzDscrptr": {
+            "rowidObject": "285 ",
+            "label": "Lookup Product Size Descriptor",
+            "ExSizeDesc": "6L",
+            "ExSzDscrptrID": "6L"
+          },
+          "ExProductLabel": {
+            "link": [],
+            "firstRecord": 1,
+            "pageSize": 100,
+            "searchToken": "multi",
+            "item": [
+              {
+                "rowidObject": "288511 ",
+                "label": "Label Container Rel",
+                "ExColor": {
+                  "rowidObject": "7 ",
+                  "label": "Lookup Product Color",
+                  "ExColorDesc": "Red",
+                  "ExColorID": "Red"
+                },
+                "ExLabelNm": "Clos Du Bois Wnmkr Merlot",
+                "ExRegion": "N/A WINE",
+                "ExState": {
+                  "rowidObject": "6 ",
+                  "label": "Lookup State",
+                  "stateCode": "CA",
+                  "stateDesc": "California"
+                },
+                "ExCountry": {
+                  "rowidObject": "228 ",
+                  "label": "Lookup Country",
+                  "countryCode": "US",
+                  "countryDesc": "United States"
+                },
+                "ExProductBrand": {
+                  "link": [],
+                  "firstRecord": 1,
+                  "pageSize": 100,
+                  "searchToken": "multi",
+                  "item": [
+                    {
+                      "rowidObject": "2554 ",
+                      "label": "Brand Label Relationship",
+                      "ExBrandNm": "Clos Du Bois"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "ExProductAltId": {
+    "link": [],
+    "firstRecord": 1,
+    "pageSize": 100,
+    "searchToken": "multi",
+    "item": [
+      {
+        "rowidObject": "1005579 ",
+        "label": "Product Alternate Indentifier",
+        "ExAltID": "3829565",
+        "ExAltIDType": {
+          "rowidObject": "15 ",
+          "label": "Lookup Product Alternate ID",
+          "ExAltIDTypeDesc": "Data Warehouse",
+          "ExAltIDType": "EDW ID"
+        }
+      }
+    ]
+  }
+}
